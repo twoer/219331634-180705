@@ -1,4 +1,4 @@
 module.exports = {
   lintOnSave: false,
-  baseUrl: '/219331634/'
+  baseUrl: '/20180811/'
 }

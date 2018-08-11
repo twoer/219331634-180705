@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <div class="header">
-      <p>安徽 合肥 WEB 前端(219331634) </p>
-      <p>2018/07/05 抽奖专用</p>
+      <p>合肥 PHP & FE  聚餐</p>
+      <p>2018/08/11 抽奖专用</p>
     </div>
     <div class="content">
       <p>{{randomMember.name || '请点击开始吧'}}</p>
@@ -16,63 +16,44 @@
 
 <script>
 const MEMBER = [
-  {
-    name: '许瑞'
-  },
-  {
-    name: '左强'
-  },
-  {
-    name: '陈仁磊'
-  },
-  {
-    name: '张坤'
-  },
-  {
-    name: '王汉坤'
-  },
-  {
-    name: '肖志成'
-  },
-  {
-    name: '王晓雨'
-  },
-  {
-    name: '三哥哥'
-  },
-  {
-    name: '陈杰'
-  },
-  {
-    name: '尹程'
-  },
-  {
-    name: '李乾坤'
-  },
-  {
-    name: '陈强'
-  },
-  {
-    name: '尚守安'
-  },
-  {
-    name: '单凯强'
-  },
-  {
-    name: '邰爱强'
-  },
-  {
-    name: '陈长裕'
-  },
-  {
-    name: '刘东松'
-  },
-  {
-    name: '夏彬'
-  },
-  {
-    name: '陈文真'
-  }
+  {name: '夏彬'},
+  {name: '高进'},
+  {name: '王菁菁'},
+  {name: '左强'},
+  {name: '张涛'},
+  {name: '郑家园'},
+  {name: '陈志远'},
+  {name: '张海洲'},
+  {name: '安明兴'},
+  {name: '高大成'},
+  {name: '许伟'},
+  {name: '赵明亮'},
+  {name: '陈强'},
+  {name: '林泳波'},
+  {name: '郑旭'},
+  {name: '李勇'},
+  {name: '张坤'},
+  {name: '沈强'},
+  {name: '王晓雨'},
+  {name: '沈美玉'},
+  {name: '常弘扬'},
+  {name: '李辰辰'},
+  {name: '杨斌'},
+  {name: '洪涛'},
+  {name: '吴礼恺'},
+  {name: '杨安娜'},
+  {name: '胡园园'},
+  {name: '胡萍萍'},
+  {name: '葛磊'},
+  {name: '张亮亮'},
+  {name: '孔海涛'},
+  {name: '吴建峰'},
+  {name: '章玲'},
+  {name: '姜言言'},
+  {name: '胡文'},
+  {name: '贾宝川'},
+  {name: '沈财'},
+  {name: '潘德政'}
 ]
 const VIP_MEMBER = [
   {
