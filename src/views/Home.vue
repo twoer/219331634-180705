@@ -16,48 +16,12 @@
 
 <script>
 const MEMBER = [
-  {name: '夏彬'},
-  {name: '高进'},
-  {name: '王菁菁'},
-  {name: '左强'},
-  {name: '张涛'},
-  {name: '郑家园'},
-  {name: '陈志远'},
-  {name: '张海洲'},
-  {name: '安明兴'},
-  {name: '高大成'},
-  {name: '许伟'},
-  {name: '赵明亮'},
-  {name: '陈强'},
-  {name: '林泳波'},
-  {name: '郑旭'},
-  {name: '李勇'},
-  {name: '张坤'},
-  {name: '沈强'},
-  {name: '王晓雨'},
-  {name: '沈美玉'},
-  {name: '常弘扬'},
-  {name: '李辰辰'},
-  {name: '杨斌'},
-  {name: '洪涛'},
-  {name: '吴礼恺'},
-  {name: '杨安娜'},
-  {name: '胡园园'},
-  {name: '胡萍萍'},
-  {name: '葛磊'},
-  {name: '张亮亮'},
-  {name: '孔海涛'},
-  {name: '吴建峰'},
-  {name: '章玲'},
-  {name: '姜言言'},
-  {name: '胡文'},
-  {name: '贾宝川'},
-  {name: '沈财'},
-  {name: '潘德政'}
+  {name: '张三'},
+  {name: '李四'}
 ]
 const VIP_MEMBER = [
   {
-    name: '张坤'
+    name: '张三'
   }
 ]
 export default {
